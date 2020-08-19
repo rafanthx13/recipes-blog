@@ -1,4 +1,4 @@
-I"ê<p><strong>Otimizar processo</strong></p>
+I"<p><strong>Otimizar processo</strong></p>
 <ul>
   <li>Usar uma caixa de creme de leite para fazer o chatily, assim fica:
     <ul>
@@ -20,7 +20,7 @@
   <li>leite nnho - 5 colheres de sopa
     <ul>
       <li>1 caixa = ????</li>
-      <li>5 colheres de sopa =~ 40gramas</li>
+      <li>5 colheres de sopa =~ 40g</li>
     </ul>
   </li>
   <li>manteiga - 2 colheres de sopa
@@ -54,4 +54,18 @@ VENDER: 30%</p>
 <ul>
   <li>1 colher de sopa de leite em p√≥ pesa 7.92 gramas</li>
 </ul>
+
+<!-- 
+
+  Image
+
+  this
+
+  /images/leite-ninho.jpg
+
+  to this:
+
+  https://rafanthx13.github.io/recipes-blog/images/leite-ninho.jpg
+
+-->
 :ET

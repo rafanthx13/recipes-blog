@@ -1,0 +1,108 @@
+I"F
+
+<hr />
+<p>date: 2020-08-19
+title: Mousse de Leite Ninho
+categories:</p>
+<ul>
+  <li>Mousse
+featured_image: https://rafanthx13.github.io/recipes-blog/images/leite-ninho.jpg
+recipe:
+  servings: 60 cookies
+  prep: 15 minutes
+  cook: 15 minutes
+  ingredients_markdown: |-
+    <ul>
+      <li>2 latas de creme de leite</li>
+      <li>leite ninho - 5 colheres de sopa</li>
+      <li>manteiga - 2 colheres de sopa</li>
+      <li>creme de leite em caixinha - 3 caixas</li>
+      <li>chantily - caixinha ou DIY</li>
+      <li>chocolate - 200g
+directions_markdown: |-
+        <ol>
+          <li>Em uma panela grande, acrescente 2 latas de creme de leite condensado; 5 colheres de sopa leite ninho; 2 colheres de manteiga manteiga e aqueça até desgrudar da panela</li>
+          <li>Quando desgrudar acrescente duas caixas de creme de leite e mexa em fogo baixo por 5 minutos.</li>
+          <li>Deixe e espere esfriar naturalmente</li>
+          <li>Bata 300ml de chantily e envolva na massa feita anterioremnte. Misture bem até ficar firme e volumoso</li>
+          <li>Ganache: derreta 200g de chocolate amargo e acrescente 150ml de creme de leite. Misture ambos</li>
+          <li>
+            <h2 id="opcional-decore-com-granulado">Opcional: Decore com granulado</h2>
+          </li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Otimizar processo</strong></p>
+<ul>
+  <li>Usar uma caixa de creme de leite para fazer o chatily, assim fica:
+    <ul>
+      <li>1 para a massar</li>
+      <li>1 para o chantily</li>
+      <li>1 para o ganache</li>
+    </ul>
+  </li>
+  <li>Infelismente, nao tem como deixar de usar 3 caixas</li>
+</ul>
+
+<p><strong>Custo</strong></p>
+<ul>
+  <li>2 latas de creme de leite
+    <ul>
+      <li>(R$ 10,00)</li>
+    </ul>
+  </li>
+  <li>leite nnho - 5 colheres de sopa
+    <ul>
+      <li>1 caixa = ????</li>
+      <li>5 colheres de sopa =~ 40g</li>
+    </ul>
+  </li>
+  <li>manteiga - 2 colheres de sopa
+    <ul>
+      <li>(R$ 1,00)</li>
+    </ul>
+  </li>
+  <li>creme de leite em caixinha - 3 caixas
+    <ul>
+      <li>1 caixa = R$ 3,00</li>
+      <li>(R$ 9,00)</li>
+    </ul>
+  </li>
+  <li>chantily - caixinha ou DIY
+    <ul>
+      <li>(R$ 3,00)</li>
+    </ul>
+  </li>
+  <li>chocolate - 200g
+    <ul>
+      <li>2 barras de chocolate</li>
+      <li>(R$ 6,00 à 10,00)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>TOTAL: 10 + 4 + 1 + 9 + 3 + 10 =~ R$ 37,00
+VENDER: 30%</p>
+
+<p><strong>Pesos</strong></p>
+<ul>
+  <li>1 colher de sopa de leite em pó pesa 7.92 gramas</li>
+</ul>
+
+<!-- 
+
+  Image
+
+  this
+
+  /images/leite-ninho.jpg
+
+  to this:
+
+  https://rafanthx13.github.io/recipes-blog/images/leite-ninho.jpg
+
+-->
+:ET

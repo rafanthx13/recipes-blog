@@ -3,7 +3,7 @@ date: 2020-08-19
 title: Mousse de Leite Ninho
 categories:
   - Mousse
-featured_image: /images/leite-ninho.jpg
+featured_image: https://rafanthx13.github.io/recipes-blog/images/leite-ninho.jpg
 recipe:
   servings: 60 cookies
   prep: 15 minutes
@@ -53,3 +53,17 @@ VENDER: 30%
 
 **Pesos**
 + 1 colher de sopa de leite em pó pesa 7.92 gramas
+
+<!-- 
+
+  Image
+
+  this
+
+  /images/leite-ninho.jpg
+
+  to this:
+
+  https://rafanthx13.github.io/recipes-blog/images/leite-ninho.jpg
+
+-->
