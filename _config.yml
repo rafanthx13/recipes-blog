@@ -11,10 +11,10 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Food blog template for Jekyll, Rafael M Assis
-author: Rafael Assis
-  name:
+author: 
+  name: Rafael Assis
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: rafa_assis20
 social:
   name: Treat Template
   links:
