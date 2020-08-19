@@ -1,0 +1,35 @@
+I"<p>date: 2020-08-19
+title: Mousse Leite Ninho
+categories:</p>
+<ul>
+  <li>Mousse
+featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&amp;h=940&amp;fit=crop
+recipe:
+  servings: 60 cookies
+  prep: 15 minutes
+  cook: 15 minutes
+  ingredients_markdown: |-
+    <ul>
+      <li>200 g butter</li>
+      <li>1 cup sugar</li>
+      <li>1 cup golden syrup</li>
+      <li>3 cups flour</li>
+      <li>1 tablespoon ground ginger</li>
+      <li>1 teaspoon baking soda
+directions_markdown: |-
+        <ol>
+          <li>Pre heat oven to 350°F.</li>
+          <li>Cream the butter and the sugar.</li>
+          <li>Add the golden syrup and the dry ingredients.</li>
+          <li>Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.</li>
+          <li>Bake at 350°F for 15 minutes.</li>
+          <li>
+            <h2 id="cool-on-a-wire-rack-and-keep-in-an-airtight-container-once-cold">Cool on a wire rack and keep in an airtight container once cold.</h2>
+            <p>These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.</p>
+          </li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET
