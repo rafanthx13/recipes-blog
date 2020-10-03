@@ -51,8 +51,21 @@ recipe:
 TOTAL: 10 + 4 + 1 + 9 + 3 + 10 =~ R$ 37,00
 VENDER: 30%
 
+[Igor Rocha](https://www.instagram.com/p/CCOl_quMSnn/)
+
 **Pesos**
 + 1 colher de sopa de leite em pó pesa 7.92 gramas
+
+**Tentativa - 21/08/2020**
++ 2 latas de leite condensado mais 5 colheres de leite ninho 2 duas de manteiga foram ao fogo
+ -  O problema que EU NÃO POSSO FICAR MEXENDO COMO O MOLHO BEXAMEL, POIS, PARA FICAR NO PONTO DE BRIGADDEIRO (O PONTO EM QUE SOLTA) TEM QUE RECEBER MUITO CALOR.
+ - **Dica**: Ponha em a fogo média pra baixo (para não queimar) e mexa so chacalhando a panela
++ Bati 200ml de chantily de caixa na batedeira puro
+ - **Dica** O chantilly tem que ser gelado, coloque no freze ou na geladeira antes de pensar em fazer ele
++ Juntei 1 caixa de creme de leite na massa de brigadireo (depois que descola) e o chantily
++ Ganache: 2 barras de chocolate + uma parte de creme de leite. Uma parte do crmee eu joguei na massa para ficar 150ml para a ganache
+  - **Dica** se for no microondas va colocando, tirando e mexendo
+
 
 <!-- 
 
