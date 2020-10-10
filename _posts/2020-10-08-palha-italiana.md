@@ -1,9 +1,9 @@
 ---
-title: Sequilhas Mesclado
+title: Palha Italiana
 categories: 
   - Confeitaria
 date: 2020-10-08
-featured_image: https://rafanthx13.github.io/recipes-blog/images/palha-italiana.jpg
+featured_image: https://rafanthx13.github.io/recipes-blog/images/palha-italiana.png
 recipe:
   servings: ??
   prep: ??

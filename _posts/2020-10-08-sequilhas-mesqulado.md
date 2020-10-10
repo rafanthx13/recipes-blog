@@ -3,7 +3,7 @@ title: Sequilhas Mesclado
 categories: 
   - Confeitaria
 date: 2020-10-08
-featured_image: https://rafanthx13.github.io/recipes-blog/images/sequilhas-mescaldo.jpg
+featured_image: https://rafanthx13.github.io/recipes-blog/images/sequilhas-mesclado.png
 recipe:
   servings: ??
   prep: ??
