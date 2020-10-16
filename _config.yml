@@ -2,8 +2,8 @@
 # Site
 
 title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
-baseurl:
+url: "https://rafanthx13.github.io/recipes-blog"
+baseurl: "https://rafanthx13.github.io/recipes-blog"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
