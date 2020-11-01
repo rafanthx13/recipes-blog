@@ -2,8 +2,8 @@
 # Site
 
 title: Treat Template
-url: "https://rafanthx13.github.io/recipes-blog"
-baseurl: "https://rafanthx13.github.io/recipes-blog"
+url: 
+baseurl: 
 google_analytics_key:
 newsletter_action:
 disqus_shortname:

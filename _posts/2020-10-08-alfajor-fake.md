@@ -1,10 +1,10 @@
 ---
+date: 2020-10-08
 title: Alfajor Fake
 categories: 
   - Confeitaria
-date: 2020-10-08
 featured_image: https://rafanthx13.github.io/recipes-blog/images/alfajor-fake.jpg
-récipe:
+recipe:
   servings: ??
   prep: ??
   cook: ??
