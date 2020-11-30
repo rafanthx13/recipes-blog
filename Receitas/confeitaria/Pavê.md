@@ -21,8 +21,6 @@ Bater Clara de ovo com açucar e creme de lete
 Você aquece, tira e mexe. Faz isso varias vezes, pois o chocolate quente só vai desmanxhar como chocolate derretido se você mexer nele com uma espatula.
 
 
-
-
 ## [RECEITAS DA CRIS - Pavê da Cris](https://www.youtube.com/watch?v=KtG5yL13uBY)
 
 **Ingredientes**
@@ -62,7 +60,7 @@ Medidas da forma do vídeo:
 6. No fogo e quando começar a borbulhar, desliga (cuidado par anao queimar e para nao raspar essa parte queimada para o creme)
  - Opcional: por uma colher de essência de baunilha quando for desligar do fogo
  - Se estiver duro, coloque umpoicuo mais de leite
-9. Adicione caixinha de creme de leite pra ficar maiscremoso
+9. Adicione caixinha de creme de leite pra ficar mais cremoso
 10. Pegar uma tuppleware e colocar leite o suficiente para molhar o biscoito
 *Montar*
 11. Colocar o creme na travessa e depois coloque os bistoitos (champanhe ou qualquer outro). Coloque uma camada de creme e outra de biscoito.
